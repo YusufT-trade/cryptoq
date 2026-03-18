@@ -1,0 +1,2 @@
+# cryptoq
+My Crypto Ai
